@@ -1,0 +1,70 @@
+body {
+    margin:0px;
+    padding:0px;
+    background: black;
+    
+}
+
+header {
+    margin-top: -67px;
+    background: url('../img/head_image.png') no-repeat center top;
+    
+}
+header p {
+    color: black;
+    font-family: 'Irish Grover', cursive;
+    padding-top: 245px ;
+    padding-bottom: 79px;
+    padding-left: 675px;
+    text-align: center;
+    font-size: 67px;
+    width: 195px;
+    margin-bottom: 0px;
+    
+}
+
+.second_pic {
+    width: 95%;
+    margin-left: 75px;
+    
+    
+}
+h2 {
+    margin-top: 70px;
+    width: 247px;
+    font-size: 60px;
+    font-family: 'Irish Grover', cursive;
+    color: #D62222;
+    margin-left: 700px;
+    
+}
+/* каждая команда имеет свой класс */
+.team_1, .team_2 {
+    margin-left: 150px;
+    margin-bottom: 200px;
+   
+    
+}
+/* настройки для картинок команд общие */
+.team_pic {
+    margin-left: 30px;
+    margin-right: 30px;
+    border: 4px solid #D62222;
+    padding: 25px;
+}
+/* это тоже */
+iframe {
+    border: 4px solid #D62222;
+    padding: 25px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.final_pic {
+    margin-top: 100px;
+    width: 55%;
+    margin-left: 380px;
+}
+.soc {
+    float: right;
+    margin-right: 90px;
+}
